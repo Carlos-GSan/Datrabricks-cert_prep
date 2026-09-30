@@ -1,0 +1,14 @@
+## What is PySpark?
+
+The certification exam expects you to have a reasonable understanding of PySpark
+
+- PySpark is the Python API for Apache Spark
+- It offers greater flexibility than Spark SQL
+- We can easily integrates with Python Libraries
+
+SparkSQL is great for Queries but PySpark is perfect when you need programmable control over you data workflows
+
+## DataFrames
+
+Data Frames are stores in memory across many machines for parallel processing
+
